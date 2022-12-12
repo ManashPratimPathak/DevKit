@@ -42,6 +42,10 @@ We can set up an Alan Voice assisstant using Alan AI throught the content script
 A work list for reminder where we can put our thoughts or our todos.
 <i>Tech Stack</i> -CSS,JavaScript,HTML.
 
+## Video Explaination:
+
+https://user-images.githubusercontent.com/86921052/173235942-eaaccde3-844c-4c1e-9e8e-6e82af409998.mp4
+
 ## Team Members:
 
   <ol>
